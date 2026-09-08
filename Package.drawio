@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="Passenger-Train-Ticket-Admin-Diagram" name="Passenger Train Ticket Admin Diagram">
+    <mxGraphModel dx="1201" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="950" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#000000;" value="Passenger" vertex="1">
+          <mxGeometry height="50" width="100" x="20" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="train" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#000000;" value="Train" vertex="1">
+          <mxGeometry height="50" width="100" x="790" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ticket" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#000000;" value="Ticket" vertex="1">
+          <mxGeometry height="50" width="100" x="20" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="admin" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=14;fillColor=#ffffff;strokeColor=#000000;" value="Admin" vertex="1">
+          <mxGeometry height="50" width="100" x="790" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="pr1_s" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="118" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pr1_t" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="788" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pr1" edge="1" parent="1" source="pr1_s" style="edgeStyle=none;rounded=0;html=1;dashed=1;dashPattern=4 4;endArrow=open;endFill=0;strokeColor=#000000;fontSize=13;labelBackgroundColor=#ffffff;" target="pr1_t" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pr2_s" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="71" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="pr2_t" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="71" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="pr2" edge="1" parent="1" source="pr2_s" style="edgeStyle=none;rounded=0;html=1;dashed=1;dashPattern=4 4;endArrow=open;endFill=0;strokeColor=#000000;fontSize=13;labelBackgroundColor=#ffffff;" target="pr2_t" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pr3_s" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="118" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pr3_t" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="788" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="pr3" edge="1" parent="1" source="pr3_s" style="edgeStyle=none;rounded=0;html=1;dashed=1;dashPattern=4 4;endArrow=open;endFill=0;strokeColor=#000000;fontSize=13;labelBackgroundColor=#ffffff;" target="pr3_t" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pr4_s" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="118" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pr4_t" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="788" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pr4" edge="1" parent="1" source="pr4_s" style="edgeStyle=none;rounded=0;html=1;dashed=1;dashPattern=4 4;endArrow=open;endFill=0;strokeColor=#000000;fontSize=13;labelBackgroundColor=#ffffff;" target="pr4_t" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pr5_s" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="118" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="pr5_t" parent="1" style="opacity=0;fillOpacity=0;strokeOpacity=0;html=1;" value="" vertex="1">
+          <mxGeometry height="4" width="4" x="788" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="pr5" edge="1" parent="1" source="pr5_s" style="edgeStyle=none;rounded=0;html=1;dashed=1;dashPattern=4 4;endArrow=open;endFill=0;strokeColor=#000000;fontSize=13;labelBackgroundColor=#ffffff;" target="pr5_t" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
